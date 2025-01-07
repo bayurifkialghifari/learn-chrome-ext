@@ -1,0 +1,13 @@
+{
+  "name": "TEST BG",
+  "version": "1.0.0",
+  "description": "test chrome extension",
+  "manifest_version": 3,
+  "author": "Bayu Rifki Alghifari",
+  "homepage_url": "https://github.com/bayurifkialghifari",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "TEST BG"
+  },
+  "permissions": ["activeTab", "bookmarks", "tabs", "storage"]
+}
